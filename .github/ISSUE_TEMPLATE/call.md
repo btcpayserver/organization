@@ -23,8 +23,8 @@ UTCTime: 2020-MM-DD hh:mm UTC
 
 ### Join the call
 
-[LINK FOR CALL]
+LINK FOR CALL
 
 ### Calendar invite
 
-[LINK TO CALENDAR INVITE]
+Subscribe to the BTCPay Server calendar. More info [here](https://github.com/btcpayserver/organization#calendar).
