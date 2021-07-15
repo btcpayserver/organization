@@ -1,0 +1,64 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//BTCPay Server//ical-generator//EN
+NAME:BTCPay Server Community Calls & Events
+X-WR-CALNAME:BTCPay Server Community Calls & Events
+TIMEZONE-ID:US/Pacific
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:945695541@btcpayserver.org
+SEQUENCE:0
+DTSTAMP:20210729T170000Z
+DTSTART:20210729T170000Z
+DTEND:20210729T180000Z
+SUMMARY:Design Call #14
+DESCRIPTION:Find out more at: https://github.com/btcpayserver/organization
+ /issues/49
+X-ALT-DESC;FMTTYPE=text/html:Find out more at: <a href=\"https://github.co
+ m/btcpayserver/organization/issues/49\">https://github.com/btcpayserver/or
+ ganization/issues/49</a>
+URL;VALUE=URI:https://github.com/btcpayserver/organization/issues/49
+END:VEVENT
+BEGIN:VEVENT
+UID:945591700@btcpayserver.org
+SEQUENCE:0
+DTSTAMP:20210719T180000Z
+DTSTART:20210719T180000Z
+DTEND:20210719T190000Z
+SUMMARY: UI Pair Programming Session #3
+DESCRIPTION:Find out more at: https://github.com/btcpayserver/organization
+ /issues/48
+X-ALT-DESC;FMTTYPE=text/html:Find out more at: <a href=\"https://github.co
+ m/btcpayserver/organization/issues/48\">https://github.com/btcpayserver/or
+ ganization/issues/48</a>
+URL;VALUE=URI:https://github.com/btcpayserver/organization/issues/48
+END:VEVENT
+BEGIN:VEVENT
+UID:932254155@btcpayserver.org
+SEQUENCE:0
+DTSTAMP:20210709T170000Z
+DTSTART:20210709T170000Z
+DTEND:20210709T180000Z
+SUMMARY:Documentation Call #2
+DESCRIPTION:Find out more at: https://github.com/btcpayserver/organization
+ /issues/44
+X-ALT-DESC;FMTTYPE=text/html:Find out more at: <a href=\"https://github.co
+ m/btcpayserver/organization/issues/44\">https://github.com/btcpayserver/or
+ ganization/issues/44</a>
+URL;VALUE=URI:https://github.com/btcpayserver/organization/issues/44
+END:VEVENT
+BEGIN:VEVENT
+UID:930672816@btcpayserver.org
+SEQUENCE:0
+DTSTAMP:20210707T190000Z
+DTSTART:20210707T190000Z
+DTEND:20210707T200000Z
+SUMMARY:Twitter Spaces #2
+DESCRIPTION:Find out more at: https://github.com/btcpayserver/organization
+ /issues/43
+X-ALT-DESC;FMTTYPE=text/html:Find out more at: <a href=\"https://github.co
+ m/btcpayserver/organization/issues/43\">https://github.com/btcpayserver/or
+ ganization/issues/43</a>
+URL;VALUE=URI:https://github.com/btcpayserver/organization/issues/43
+END:VEVENT
+END:VCALENDAR
