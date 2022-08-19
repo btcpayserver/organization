@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//BTCPay Server//ical-generator//EN
+NAME:BTCPay Server Community Calls & Events
+X-WR-CALNAME:BTCPay Server Community Calls & Events
+TIMEZONE-ID:US/Pacific
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:1344108695@btcpayserver.org
+SEQUENCE:0
+DTSTAMP:20220915T170000Z
+DTSTART:20220915T170000Z
+DTEND:20220915T180000Z
+SUMMARY:BTCPay Design Call #40
+DESCRIPTION:Find out more at: https://github.com/btcpayserver/organization
+ /issues/102
+X-ALT-DESC;FMTTYPE=text/html:Find out more at: <a href=\"https://github.co
+ m/btcpayserver/organization/issues/102\">https://github.com/btcpayserver/o
+ rganization/issues/102</a>
+URL;VALUE=URI:https://github.com/btcpayserver/organization/issues/102
+END:VEVENT
+END:VCALENDAR
